@@ -5,16 +5,14 @@
 ### An introduction to NodeJS and Express
 
 > 1. Explain middleware, answer as though I were a non-technical recruiter.
->> We can think of it as a helpful layer between the server and the application. It allows developers to add functionality to their web applications without directly modifying the core code. It can handle tasks such as authentication, logging, error handling, and more. Middleware makes it easier to manage and organize different parts of the application, enhancing its overall performance and maintainability.
-
-> 2. Express the most popular __ __ ____.
->> Node web framework
-
- > 3. Express is “unopinionated.” What does that mean?
- >> This means that Express does not impose strict rules or conventions on how you should structure your application. It provides a minimal set of functionalities and leaves the majority of decisions to the developer.
-
-> 4. What is a module and why is modularity useful to us as developers?
+>> We can think of it as a helpful layer between the server and the application. It allows developers to add functionality to their web applications without directly modifying the core code. It can handle tasks such as authentication, logging, error handling, and more. Middleware makes it easier to manage and organize different parts of the application, enhancing its overall performance and maintainability.<br/>
+ 2. Express the most popular __ __ ____.<br/>
+>> Node web framework<br/>
+ 3. Express is “unopinionated.” What does that mean?<br/>
+ >> This means that Express does not impose strict rules or conventions on how you should structure your application. It provides a minimal set of functionalities and leaves the majority of decisions to the developer.<br/>
+ 4. What is a module and why is modularity useful to us as developers?<br/>
  >> module is a self-contained unit of code that performs a specific functionality. It can be a file or a collection of files that encapsulate related code, data, and resources.
+
 
 ------------------
 ### What is NPM?
