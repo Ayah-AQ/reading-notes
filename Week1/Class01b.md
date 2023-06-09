@@ -17,22 +17,19 @@
 ------------------
 ### What is NPM?
 > 1. What version of npm are you running on your machine?
->> 9.6.6
-
-> 2. What command would you type to install a library/package called ‘jshint’ into your node project?
+>> 9.6.6<br/>
+2. What command would you type to install a library/package called ‘jshint’ into your node project?
 >> npm i jshint
 
 --------------------
 ### What is TDD?
 > 1. Explain why tests are important. Please explain as though I were your non technical elder.
->> Tests are important because they help ensure that software or applications work as intended. Just like how you might check the quality of a product before using it, tests are like quality checks for software. They help identify any issues or problems that might be present, making sure that everything runs smoothly.
-
-> 2. What are three expected benefits of testing
+>> Tests are important because they help ensure that software or applications work as intended. Just like how you might check the quality of a product before using it, tests are like quality checks for software. They help identify any issues or problems that might be present, making sure that everything runs smoothly.<br/>
+ 2. What are three expected benefits of testing
 >>1- many teams report significant reductions in defect rates, at the cost of a moderate increase in initial development effort <br/>
 >>2- the same teams tend to report that these overheads are more than offset by a reduction in effort in projects’ final phases<br/>
->> 3- although empirical research has so far failed to confirm this, veteran practitioners report that TDD leads to improved design qualities in the code, and more generally a higher degree of “internal” or technical quality, for instance improving the metrics of cohesion and coupling
-
-> 3. Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.
+>> 3- although empirical research has so far failed to confirm this, veteran practitioners report that TDD leads to improved design qualities in the code, and more generally a higher degree of “internal” or technical quality, for instance improving the metrics of cohesion and coupling <br/>
+3. Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.
 >> <strong>Individual pitfalls:</strong> <br/>
  1- Overlooking edge cases: Focusing only on expected scenarios and neglecting unusual inputs or extreme values that can lead to unexpected errors.
  <br/> 2- Lack of test coverage: Failing to sufficiently test all parts of the code, increasing the risk of undiscovered bugs and reducing the effectiveness of testing.
