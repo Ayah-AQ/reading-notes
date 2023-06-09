@@ -25,6 +25,7 @@ _______________
 * ## Code 401 - Advanced Software Development
 ```
 ```
-> [Class 01-a: Node Ecosystem](./Week1/NodeEcosystem.md)
 
-> [Class 01-b: Express, NPM, TDD, CI/CD](./Week1/Class01b.md)
+> [Class 01-a: Node Ecosystem](./Week1/NodeEcosystem.md)<br/>
+
+> [Class 01-b: Express, NPM, TDD, CI/CD](./Week1/Class01b.md)<br/>
