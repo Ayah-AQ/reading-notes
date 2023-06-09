@@ -5,11 +5,11 @@
 > 1. How would you describe Node to a non-technical friend?
 >> Node.js is a platform that enables developers to use JavaScript for creating server-side applications. It operates independently of web browsers, resulting in high efficiency and speed. One of its key advantages is the ability to share code between the client and server sides of a web application.
 
-
+<br/>
 > 2. What does it mean that Node is a JavaScript runtime?
  >> It means that Node.js provides an environment in which JavaScript code can be run outside of a web browser.
 
-
+----------------------------
  > 3. What is Node used for?
 >> Node.js is utilized for various purposes, including:
 >> 1. web application development
