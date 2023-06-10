@@ -26,7 +26,7 @@ I have some ability to understand and empathize with others' emotions, but there
 This suggests a relatively high level of relationship management skills. 
 I excel in building and maintaining relationships, and I have strong abilities in influencing and resolving conflicts.
 ```
-6.  My score was ***85*** so I need to improve my waknes points <br/> 
+>6.  My score was ***85*** so I need to improve my waknes points <br/> 
 >> The Qestions in the form:
 1. Which of the areas is your strongest? 
 WHAT IS BIAS 
