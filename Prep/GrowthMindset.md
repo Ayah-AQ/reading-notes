@@ -28,17 +28,14 @@ I excel in building and maintaining relationships, and I have strong abilities i
 ```
 6.  My score was ***85*** so I need to improve my waknes points <br/> 
 >> The Qestions in the form:
-```
 1. Which of the areas is your strongest? 
 WHAT IS BIAS 
 EMPATHY AND CURIOSITY
-
  2. Which of the areas is your weakest?
 BIAS AND IDENTITY
-
  3. Which of the areas will you focus on in the coming weeks and beyond?
 all areas that contains weakness 
-```
+
 _________
 _________
 _________
