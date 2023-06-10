@@ -25,6 +25,10 @@ _______________
 * ## Code 401 - Advanced Software Development
 ```
 ```
+_______________
+_______________
+_______________
+> [Prep: The Growth Mindset](./Prep/GrowthMindset.md)<br/>
 
 > [Class 01-a: Node Ecosystem](./Week1/NodeEcosystem.md)<br/>
 
