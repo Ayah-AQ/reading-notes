@@ -30,11 +30,11 @@
 >>2- the same teams tend to report that these overheads are more than offset by a reduction in effort in projects’ final phases<br/>
 >> 3- although empirical research has so far failed to confirm this, veteran practitioners report that TDD leads to improved design qualities in the code, and more generally a higher degree of “internal” or technical quality, for instance improving the metrics of cohesion and coupling <br/>
 3. Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.
->> <strong>Individual pitfalls:</strong> <br/>
+>> * <strong>Individual pitfalls:</strong> <br/>
  1- Overlooking edge cases: Focusing only on expected scenarios and neglecting unusual inputs or extreme values that can lead to unexpected errors.
  <br/> 2- Lack of test coverage: Failing to sufficiently test all parts of the code, increasing the risk of undiscovered bugs and reducing the effectiveness of testing.
 
->> <strong>Team pitfalls:</strong><br/>
+>> * <strong>Team pitfalls:</strong><br/>
  1- Poor communication and coordination: Inconsistent or incomplete testing due to a lack of proper communication and coordination among team members, resulting in gaps in test coverage and wasted resources. <br/>
  2-Ignoring test maintenance: Neglecting to update and maintain tests over time, leading to outdated or irrelevant tests that can produce false positives or negatives, undermining their reliability and usefulness.
 -----------------
@@ -45,5 +45,4 @@
 > 2. What is the difference between Continuos Delivery and Continuous Deployment?
 >>
 
-> 3. Explain how GitHub fits into this process assuming the listener comes from a non-technical background
->>
+
