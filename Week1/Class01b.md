@@ -40,9 +40,23 @@
 -----------------
 ### CI/CD
 > 1. What are three benefits of Continuous Integration?
->>
+>> Continuous Integration (CI) benefits software development by reducing risks, catching issues early, and accurately tracking code changes. It promotes collaboration and reliable software delivery.
+ 2. What is the difference between Continuos Delivery and Continuous Deployment?
+>> Continuous Delivery automates the release process to staging or testing environments, while Continuous Deployment goes a step further by automatically deploying releases to production without manual intervention.
+3. Explain how GitHub fits into this process assuming the listener comes from a non-technical background
 
-> 2. What is the difference between Continuos Delivery and Continuous Deployment?
->>
+>> GitHub is a platform that helps developers work together and manage their code. It allows for easy collaboration, tracks changes to the code, and integrates with tools that automate testing and deployment of the code.
+
+____________________________
 
 
+# What are your learning goals after reading and reviewing the class README?
+
+```
+Understand the mechanics of an Express server.
+Learn about routing and handling different types of requests in Express.
+Explore the concept of middleware and its role in the request-response flow.
+Gain knowledge about HTTP status codes and their importance in building APIs.
+Learn about test-driven development (TDD) and effectively test an Express server.
+Develop practical skills by writing an Express API server, incorporating middleware, and conducting thorough testing.
+```
