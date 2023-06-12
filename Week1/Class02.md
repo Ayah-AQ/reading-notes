@@ -33,8 +33,6 @@ Is the URL pattern that a route handler matches. It can be a string, pattern, or
 ***route method***
 ```
  Represents the HTTP method (e.g., GET, POST) a route handler responds to. Express provides methods like app.get() and app.post() for different HTTP methods.
-
-
 ```
 > 3. When is it appropriate to add next as a parameter to a route handler and what must you do if next has been passed to your middleware as a parameter?
 ```
