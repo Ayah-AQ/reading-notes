@@ -35,3 +35,5 @@ _______________
 > [Class 01-a: Node Ecosystem](./Week1/NodeEcosystem.md)<br/>
 
 > [Class 01-b: Express, NPM, TDD, CI/CD](./Week1/Class01b.md)<br/>
+
+> [Data Structures and Algorithms](./Prep/DS.md)<br/>
