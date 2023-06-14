@@ -38,4 +38,8 @@ _______________
 
 > [Data Structures and Algorithms](./Prep/DS&Algo.md)<br/>
 
->  [Class 02](./Week1/Class02.md)<br/>
+>  [Class 02: Express REST API](./Week1/Class02.md)<br/>
+
+>  [Class 03: Linked Lists](./Week1/Class02.md)<br/>
+
+
