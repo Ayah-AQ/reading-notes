@@ -44,4 +44,6 @@ _______________
 
 >  [Class 04: Data Modeling](./Week2/Class03.md)<br/>
 
+>  [Class 06: Authentication](./Week2/class05.md)<br/> 
+
 

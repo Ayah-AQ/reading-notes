@@ -37,3 +37,9 @@
 
 > Q3: Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.
 >> In database relationships, a one-to-one relationship means each record in one table is connected to a unique record in another table. A one-to-many relationship allows one record in a table to have multiple connections with records in another table. A many-to-many relationship means multiple records in one table can be connected to multiple records in another table.
+
+###
+
+```
+In the Data Modeling class, the goal is to learn how to create data models in JavaScript. These models describe the properties and behaviors of objects and help solve problems in application development. The class covers CRUD operations, SQL and NoSQL databases, and modeling relational data using Sequelize. It also teaches SQL commands and provides a Collection class for performing database operations. The class aims to give students the skills to work with data and build applications effectively.
+```
