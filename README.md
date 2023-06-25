@@ -46,4 +46,6 @@ _______________
 
 >  [Class 06: Authentication](./Week2/class05.md)<br/> 
 
+>  [Class 07: Bearer Token Authentication](./Week3/class07.md)<br/> 
+
 
