@@ -48,4 +48,5 @@ _______________
 
 >  [Class 07: Bearer Token Authentication](./Week3/class07.md)<br/> 
 
+>  [Class 08: ](./Week4/class08.md)<br/> 
 
