@@ -52,3 +52,5 @@ _______________
 
 >  [Class 09: ](./Week4/class09.md)<br/> 
 
+>  [Class 10: ](./Week5/class10.md)<br/> 
+
