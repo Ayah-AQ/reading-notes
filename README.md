@@ -57,6 +57,9 @@ _______________
 >  [Class 11: Socket ](./Week5/class11.md)<br/>  
 
 >  [Class 12: Socket ](./Week5/class12.md)<br/>  
+
+>  [Class 13: trees ](./Week6/class13.md)<br/>  
+
  
  
 
