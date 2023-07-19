@@ -62,6 +62,8 @@ _______________
 
 >  [Class 14:  ](./Week6/class14.md)<br/>  
 
+>  [Class 16: AWS ](./Week6/class16.md)<br/>  
+
 
  
  
