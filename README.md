@@ -68,6 +68,9 @@ _______________
 
 >  [Class 18:  ](./Week7/class18.md)<br/>  
 
+>  [Class 19:  ](./Week7/class19.md)<br/>  
+
+
 
 
  
