@@ -70,8 +70,11 @@ _______________
 
 >  [Class 19:  ](./Week7/class19.md)<br/>  
 
->  [Class 20:  ](./FE/Week1/class1.md)<br/>  
->  [Class 20:  ](./FE/Week1/class2.md)<br/>  
+>  [Class 20: React ](./FE/Week1/class1.md)<br/>  
+
+>  [Class 21: State ](./FE/Week1/class2.md)<br/>  
+
+>  [Class 22: useEffect  ](./FE/Week1/class3.md)<br/>  
 
 
 
