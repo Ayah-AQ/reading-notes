@@ -76,6 +76,11 @@ _______________
 
 >  [Class 22: useEffect  ](./FE/Week1/class3.md)<br/>  
 
+>  [Class 22: useEffect  ](./FE/Week1/class3.md)<br/>  
+
+>  [Class 28: Advanced State with Reducers  ](./FE/Week2/class4.md)<br/>  
+
+
 
 
 
