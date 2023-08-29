@@ -80,7 +80,7 @@ _______________
 
 >  [Class 28: Advanced State with Reducers  ](./FE/Week2/class4.md)<br/>  
 
-
+>  [Class 29: Hashtable  ](./FE/Week2/class5.md)<br/>  
 
 
 
