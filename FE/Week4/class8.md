@@ -1,0 +1,3 @@
+# Graphs
+
+> A **graph** is a way to represent connections between things. It has nodes `(points)` and edges `(lines)` that connect them. There are different types of graphs, like those with directions on the edges or weights assigned to them. You can use graphs to solve various problems, such as *finding the shortest path between two points* or *figuring out how things are connected*. They have many real-world uses, like in social networks or navigation systems. The way you work with graphs depends on the problem you're trying to solve and the type of graph you're dealing with.
