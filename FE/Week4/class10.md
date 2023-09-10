@@ -12,6 +12,7 @@
 >> Our dynamic API is like a super-smart helper for our online store. It understands what you want and brings it to you. Just like asking for things, and it gives you what you asked for. It's like magic for our website!
 
 
+# Review Auth Server Build
 
 > Q1: Describe how you would use middleware to implement basic and bearer auth.
 >> Middleware is like security guards for our server. 
