@@ -94,6 +94,8 @@ _______________
 
 >  [Class 36: Graphs  ](./FE/Week4/class11.md)<br/>  
 
+>  [Class 37: Graphs  ](./FE/Week5/class12.md)<br/>  
+
 
 
 
