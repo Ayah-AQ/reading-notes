@@ -100,7 +100,9 @@ _______________
 
 >  [Class 38: Graphs  ](./FE/Week5/class14.md)<br/>  
 
->  [Class 41: Graphs  ](./FE/Week6/class15.md)<br/>  
+>  [Class 41: Native  ](./FE/Week6/class15.md)<br/>  
+
+>  [Class 42: Native  ](./FE/Week6/class15.md)<br/>  
 
 
 
