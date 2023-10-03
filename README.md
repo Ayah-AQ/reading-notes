@@ -102,7 +102,10 @@ _______________
 
 >  [Class 41: Native  ](./FE/Week6/class15.md)<br/>  
 
->  [Class 42: Native  ](./FE/Week6/class15.md)<br/>  
+>  [Class 42: Native  ](./FE/Week6/class16.md)<br/>  
+
+>  [Class 43:   ](./FE/Week6/class17.md)<br/>  
+
 
 
 
